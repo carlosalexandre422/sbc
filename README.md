@@ -1,4 +1,4 @@
-# Projeto Final – DCGAN
+# Projeto – DCGAN
 
 Este repositório contém um projeto implementado em Python utilizando **DCGAN (Deep Convolutional Generative Adversarial Network)** para geração de imagens.
 
